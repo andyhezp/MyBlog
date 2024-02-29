@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: Yao网站
+title: H网站
 titleTemplate: 写一些博客
 
 hero:
-  name: Yao的网站
+  name: H的网站
   text: 写一些博客
   tagline: 欢迎光临.
   image:
@@ -58,7 +58,7 @@ import {
 const members = [
   {
     avatar: 'https://avatars.githubusercontent.com/u/90204437?v=4',
-    name: 'liuyiapple',
+    name: 'Hzpapple',
     title: 'continue coding....',
     links: [
       { icon: 'github', link: 'https://github.com/liuyiapple' },

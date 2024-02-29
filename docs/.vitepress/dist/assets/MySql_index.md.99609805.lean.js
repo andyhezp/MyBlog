@@ -1,0 +1,1 @@
+import{_ as s,k as a,l as n,W as l}from"./chunks/framework.f1e8809f.js";const F=JSON.parse('{"title":"MySql 表结构操作","description":"","frontmatter":{},"headers":[],"relativePath":"MySql/index.md"}'),p={name:"MySql/index.md"},o=l("",85),e=[o];function t(C,c,r,y,A,D){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{F as __pageData,d as default};

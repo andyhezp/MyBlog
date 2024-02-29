@@ -1,0 +1,1 @@
+import{_ as e,k as t,l as a,W as i}from"./chunks/framework.f1e8809f.js";const V=JSON.parse('{"title":"Why is Vue？","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/1.introduce.md"}'),_={name:"Vue/1.introduce.md"},o=i("",4),s=[o];function r(c,n,l,p,u,d){return t(),a("div",null,s)}const m=e(_,[["render",r]]);export{V as __pageData,m as default};

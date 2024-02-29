@@ -1,0 +1,1 @@
+import{_ as s,k as n,l as a,W as l}from"./chunks/framework.f1e8809f.js";const A=JSON.parse('{"title":"可视化大屏适配方案","description":"","frontmatter":{},"headers":[],"relativePath":"Project/4.Screen.md"}'),o={name:"Project/4.Screen.md"},p=l("",13),t=[p];function e(c,r,y,D,F,i){return n(),a("div",null,t)}const f=s(o,[["render",e]]);export{A as __pageData,f as default};

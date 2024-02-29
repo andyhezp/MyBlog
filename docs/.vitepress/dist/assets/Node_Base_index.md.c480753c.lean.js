@@ -1,0 +1,1 @@
+import{_ as s,k as a,l as n,W as l}from"./chunks/framework.f1e8809f.js";const i=JSON.parse('{"title":"内置模块","description":"","frontmatter":{},"headers":[],"relativePath":"Node/Base/index.md"}'),o={name:"Node/Base/index.md"},p=l("",44),e=[p];function t(c,r,D,y,F,A){return a(),n("div",null,e)}const d=s(o,[["render",t]]);export{i as __pageData,d as default};

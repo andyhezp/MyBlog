@@ -1,0 +1,1 @@
+import{_ as s,k as n,l as a,W as l}from"./chunks/framework.f1e8809f.js";const A=JSON.parse('{"title":"练习","description":"","frontmatter":{},"headers":[],"relativePath":"Algorithm/arithmetic.md"}'),o={name:"Algorithm/arithmetic.md"},p=l("",9),t=[p];function e(c,r,y,F,D,i){return n(),a("div",null,t)}const f=s(o,[["render",e]]);export{A as __pageData,f as default};

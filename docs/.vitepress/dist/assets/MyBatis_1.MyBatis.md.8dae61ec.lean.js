@@ -1,0 +1,1 @@
+import{_ as s,k as a,l as n,W as l}from"./chunks/framework.f1e8809f.js";const i=JSON.parse('{"title":"Mybatis 基础增删改查询","description":"","frontmatter":{},"headers":[],"relativePath":"MyBatis/1.MyBatis.md"}'),p={name:"MyBatis/1.MyBatis.md"},o=l("",18),e=[o];function t(c,r,D,y,F,A){return a(),n("div",null,e)}const m=s(p,[["render",t]]);export{i as __pageData,m as default};

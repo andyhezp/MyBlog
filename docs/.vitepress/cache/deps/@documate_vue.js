@@ -34,8 +34,7 @@ import {
   withCtx,
   withDirectives,
   withKeys
-} from "./chunk-QO6646FI.js";
-import "./chunk-UXIASGQL.js";
+} from "./chunk-PXPXJQG3.js";
 
 // node_modules/@documate/vue/dist/documate.js
 function pe(t, e, ...n) {

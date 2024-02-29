@@ -1,0 +1,1 @@
+import{_ as s,k as n,l as a,W as l}from"./chunks/framework.f1e8809f.js";const A=JSON.parse('{"title":"树结构数据操作常用的方法","description":"","frontmatter":{},"headers":[],"relativePath":"Project/6.Tree.md"}'),p={name:"Project/6.Tree.md"},o=l("",13),t=[o];function e(c,r,y,F,D,i){return n(),a("div",null,t)}const f=s(p,[["render",e]]);export{A as __pageData,f as default};
