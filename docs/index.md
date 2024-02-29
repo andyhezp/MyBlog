@@ -61,7 +61,7 @@ const members = [
     name: 'Hzpapple',
     title: 'continue coding....',
     links: [
-      { icon: 'github', link: 'https://github.com/liuyiapple' },
+      { icon: 'github', link: 'https://github.com/andyhezp' },
       
     ]
   },
@@ -81,3 +81,10 @@ const members = [
     :members="members"
   />
 </VPTeamPage>
+
+<style > 
+.title{
+  color: #00adcb;
+  text-align: left;
+}
+</style>
