@@ -86,5 +86,7 @@ const members = [
 .title{
   color: #00adcb;
   text-align: left;
+  margin: unset;
+  position: unset;
 }
 </style>
