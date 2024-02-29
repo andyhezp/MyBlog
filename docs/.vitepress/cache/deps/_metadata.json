@@ -1,0 +1,47 @@
+{
+  "hash": "8260ddad",
+  "browserHash": "e8c51493",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "b46aaca0",
+      "needsInterop": false
+    },
+    "element-plus": {
+      "src": "../../../../node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "74f7b986",
+      "needsInterop": false
+    },
+    "@element-plus/icons-vue": {
+      "src": "../../../../node_modules/@element-plus/icons-vue/dist/index.js",
+      "file": "@element-plus_icons-vue.js",
+      "fileHash": "a921a825",
+      "needsInterop": false
+    },
+    "@documate/vue": {
+      "src": "../../../../node_modules/@documate/vue/dist/documate.js",
+      "file": "@documate_vue.js",
+      "fileHash": "adc99e88",
+      "needsInterop": false
+    },
+    "qrcode": {
+      "src": "../../../../node_modules/qrcode/lib/browser.js",
+      "file": "qrcode.js",
+      "fileHash": "e9a5fdf3",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-ZNZLYCHQ": {
+      "file": "chunk-ZNZLYCHQ.js"
+    },
+    "chunk-QO6646FI": {
+      "file": "chunk-QO6646FI.js"
+    },
+    "chunk-UXIASGQL": {
+      "file": "chunk-UXIASGQL.js"
+    }
+  }
+}
