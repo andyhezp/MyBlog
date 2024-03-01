@@ -20,7 +20,7 @@ hero:
       link: /Tool/lodash.md
     - theme: alt
       text: View on GitHub
-      link: https://github.com/liuyiapple
+      link: https://github.com/andyhezp?tab=repositories
 features:
   - title: '基础知识'
     details: 不积硅步，何以致千里

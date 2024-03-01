@@ -1,1 +1,1 @@
-export const github = 'https://github.com/liuyiapple/MyBlog';
+export const github = 'https://github.com/andyhezp/MyBlog';

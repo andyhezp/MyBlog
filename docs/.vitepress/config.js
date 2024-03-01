@@ -13,7 +13,7 @@ export default {
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/liuyiapple',
+        link: 'https://github.com/andyhezp?tab=repositories',
       },
     ],
     sidebar: sidebar,
