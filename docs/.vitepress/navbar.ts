@@ -10,5 +10,5 @@ export const navBar = [
     text: '面试',
     items: [{ text: 'JavaScript', link: '/JS/1.eventlLoop.md' }],
   },
-  { text: 'Github', link: 'https://github.com/liuyiapple' },
+  { text: 'Github', link: 'https://github.com/andyhezp' },
 ];

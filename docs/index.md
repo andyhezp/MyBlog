@@ -89,4 +89,7 @@ const members = [
   margin: unset;
   position: unset;
 }
+.VPTeamPage .title{
+  text-align: center;
+}
 </style>

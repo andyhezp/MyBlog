@@ -1,33 +1,42 @@
 {
-  "hash": "00f098b8",
-  "browserHash": "4672531f",
+  "hash": "bd66fe0a",
+  "browserHash": "c1d9d7a9",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "d75c2f5f",
+      "fileHash": "b05b62c3",
       "needsInterop": false
     },
     "element-plus": {
       "src": "../../../../node_modules/element-plus/es/index.mjs",
       "file": "element-plus.js",
-      "fileHash": "a0d7f1d3",
+      "fileHash": "763558b2",
       "needsInterop": false
     },
     "@element-plus/icons-vue": {
       "src": "../../../../node_modules/@element-plus/icons-vue/dist/index.js",
       "file": "@element-plus_icons-vue.js",
-      "fileHash": "b93829a6",
+      "fileHash": "b117f879",
       "needsInterop": false
     },
     "@documate/vue": {
       "src": "../../../../node_modules/@documate/vue/dist/documate.js",
       "file": "@documate_vue.js",
-      "fileHash": "87c4892d",
+      "fileHash": "0a53773b",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "src": "../../../../node_modules/@vueuse/core/index.mjs",
+      "file": "@vueuse_core.js",
+      "fileHash": "69af4939",
       "needsInterop": false
     }
   },
   "chunks": {
+    "chunk-6NMAXBHK": {
+      "file": "chunk-6NMAXBHK.js"
+    },
     "chunk-C3B2ZCAX": {
       "file": "chunk-C3B2ZCAX.js"
     },

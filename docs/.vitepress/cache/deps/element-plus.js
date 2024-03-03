@@ -1,4 +1,7 @@
 import {
+  isVue2
+} from "./chunk-6NMAXBHK.js";
+import {
   arrow_down_default,
   arrow_left_default,
   arrow_right_default,
@@ -917,9 +920,6 @@ var composeEventHandlers = (theirsHandler, oursHandler, { checkForDefaultPrevent
 var whenMouse = (handler) => {
   return (e) => e.pointerType === "mouse" ? handler(e) : void 0;
 };
-
-// node_modules/vue-demi/lib/index.mjs
-var isVue2 = false;
 
 // node_modules/element-plus/node_modules/@vueuse/shared/index.mjs
 var __defProp$9 = Object.defineProperty;

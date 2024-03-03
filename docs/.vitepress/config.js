@@ -7,7 +7,7 @@ import { ElementPlusResolver } from 'unplugin-vue-components/resolvers';
 export default {
   base: '/MyBlog/',
   themeConfig: {
-    siteTitle: 'YaoDocs',
+    siteTitle: 'HDocs',
     nav: navBar,
     lastUpdated: true,
     socialLinks: [
